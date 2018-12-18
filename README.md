@@ -25,9 +25,9 @@ ESP8266과 미세먼지측정 센서 GP2Y1010AU0F를 이용한 프로젝트 입�
 
 ![](images/oled.png)
 
-[GP2Y1010AU0F 먼지센서](https://ko.aliexpress.com/item/Dust-Sensor-Simple-Air-Monitor-Integrates-GP2Y1010AU0F-Onboard-Detecting-Cigarette-Smoke-PM2-5-Detector-High/32577364143.html?spm=a2g0s.13010208.99999999.272.467f3c00YDpWQg) : $ 12.87
+[GP2Y1010AU0F 먼지센서](https://www.aliexpress.com/item/Free-Shipping-GP2Y1010AU0F-Compact-Optical-Dust-Sensor-Smoke-Particle-Sensor-With-Cable/32377264750.html?spm=2114.search0104.3.85.511c7164wAM7If&ws_ab_test=searchweb0_0,searchweb201602_4_10065_10068_319_317_10696_453_10084_454_10083_10618_10307_10712_538_537_536_10713_5734315_10059_10884_10887_100031_321_322_10103,searchweb201603_51,ppcSwitch_0&algo_expid=e6ecdc0b-e9cc-42d9-bf99-3ce6a7a89697-12&algo_pvid=e6ecdc0b-e9cc-42d9-bf99-3ce6a7a89697) : $ 3.75
 
-![](images/dustsensor.png)
+![](images/dust_simple.png)
 
 
 
